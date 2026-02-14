@@ -1,0 +1,1 @@
+import{_,u as o,G as a,d as s,e as r,f as n}from"./main.22e43ee8.js";const c={class:"policy_wraps"},i={__name:"index",props:{loginCurrent:{type:Number,default:0}},emits:[],setup(p,{expose:e,emit:d}){return o(),e({}),(u,l)=>{const t=a("router-view");return s(),r("div",c,[n(t)])}}};var v=_(i,[["__scopeId","data-v-1c0e3ba1"]]);export{v as default};

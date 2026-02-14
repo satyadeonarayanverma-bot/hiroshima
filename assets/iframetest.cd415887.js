@@ -1,0 +1,1 @@
+import{_ as a,u as t,o as e,d as r,e as s}from"./main.22e43ee8.js";import{g as i}from"./index.a221f0b0.js";import{S as o}from"./ScrollTrigger.0788a69f.js";const _={class:"wrap"},n={__name:"iframetest",setup(p){return i.registerPlugin(o),t(),e(()=>{}),(c,d)=>(r(),s("div",_))}};var v=a(n,[["__scopeId","data-v-aa5ba16a"]]);export{v as default};

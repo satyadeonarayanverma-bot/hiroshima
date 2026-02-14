@@ -1,0 +1,25 @@
+<!doctype html><html lang="en"><head><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="preload" as="style" onload="this.rel='stylesheet'" href="https://fonts.googleapis.com/css2?family=Open Sans&family=Montserrat&family=Fira Sans&display=swap"><script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MLXB6C8C');</script><meta charset="UTF-8"/><link rel="icon" href="https://cdn-bukbb1.xgrids.cloud/ep/dc/officialWebsite/img/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="renderer" content="webkit"><meta name="color-scheme" content="light only"><meta name="supported-color-schemes" content="light"><meta name="force-color-scheme" content="light"><meta name="theme-color" content="#ffffff"><title>XGRIDS-3D Reconstruction-Spatial Computing-Handheld Scanner</title><meta name="keywords" content="XGRIDS,Lixel,Handheld 3D Scanner,SLAM based LiDAR,Realtime Modeling,Reconstruction,mapping,survey,stockpile,reality capture,geospatial solution,mobile scanner"><meta name="description" content="XGRIDS provides high-precision 3D reconstruction, real-world 3D rendering, real-time modeling, Lixel handheld LiDAR, and 3D Gaussian splatter reconstruction."><script>document.addEventListener('click', function (e) {
+      const dom = e.target.closest('[class="footer_middle_right_address_2 footer_mail_black footer_mail_white footer_about_item_value_1 "]');
+      if (dom === null) return;
+      gtag('event', 'conversion', { 'send_to': 'AW-11505783903/P0KgCPiRnf8ZEN-ose4q' });
+    });</script><script>function initUrl() {
+      const isHttps = 'https:' === window.location.protocol ? true : false;
+      const host = window.location.host
+      if (!isHttps && host.indexOf('localhost') < 0) {
+        let url = window.location.href
+        url = url.replace('http:', 'https:')
+        window.location.href = url
+        return
+      }
+    }
+    initUrl()</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-9DKCGW9GE8"></script><script>window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-9DKCGW9GE8');</script><script type="module" crossorigin src="/assets/main.22e43ee8.js"></script><link rel="stylesheet" href="/assets/main.4689b1bf.css"></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLXB6C8C" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="app"></div><script></script></body><style>html{color-scheme:light only!important;-webkit-color-scheme:light only!important}#app,body,html{background-color:#000!important;color:#fff!important;width:100%}@media (prefers-color-scheme:dark){html{color-scheme:light only!important;-webkit-color-scheme:light only!important}}input:-webkit-autofill,select:-webkit-autofill,textarea:-webkit-autofill{-webkit-text-fill-color:#fff!important;-webkit-box-shadow:0 0 0 1000px #060a19 inset!important;background-color:#060a19;background-image:none;transition:background-color 50000s ease-in-out 0s}</style></html>

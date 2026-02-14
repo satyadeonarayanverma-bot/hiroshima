@@ -1,0 +1,1 @@
+function o(){const t=document.querySelectorAll(".fade"),r=new IntersectionObserver(e=>{e.forEach(s=>{const n=s.target;s.isIntersecting&&n.classList.add("is-visible")})},{threshold:.1});t.forEach(e=>{r.observe(e)})}export{o as s};
