@@ -1,59 +1,53 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" href="assets/favicon.ico" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="renderer" content="webkit">
-    <meta name="color-scheme" content="light only">
-    <meta name="supported-color-schemes" content="light">
-    <meta name="force-color-scheme" content="light">
-    <meta name="theme-color" content="#ffffff">
-    <title>ITek Media-3D Reconstruction-Spatial Computing-Handheld Scanner</title>
-    <meta name="keywords"
-        content="ITek Media,Lixel,Handheld 3D Scanner,SLAM based LiDAR,Realtime Modeling,Reconstruction,mapping,survey,stockpile,reality capture,geospatial solution,mobile scanner">
-    <meta name="description"
-        content="ITek Media provides high-precision 3D reconstruction, real-world 3D rendering, real-time modeling, Lixel handheld LiDAR, and 3D Gaussian splatter reconstruction.">
-    <!-- Removed Analytics Scripts -->
-    <script type="module" crossorigin src="assets/main.22e43ee8.js"></script>
-    <link rel="stylesheet" href="assets/main.4689b1bf.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A romantic animated gift">
+  <title>For You ♥</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
-    <div id="app"></div>
+  <!-- Ambient glow layers -->
+  <div class="ambient-glow glow-1"></div>
+  <div class="ambient-glow glow-2"></div>
+  <div class="ambient-glow glow-3"></div>
+
+  <!-- Starfield background -->
+  <canvas id="starfield"></canvas>
+
+  <!-- Rose petals container -->
+  <div id="petals-container"></div>
+
+  <!-- Floating hearts container -->
+  <div id="hearts-container"></div>
+
+  <!-- Fireflies / sparkles canvas -->
+  <canvas id="fireflies"></canvas>
+
+  <!-- Central romantic element -->
+  <div class="center-piece">
+    <div class="heart-container">
+      <div class="heart-glow"></div>
+      <div class="love-text">ILYSM<br>AQSAAAW!</div>
+      <div class="heart-ring ring-1"></div>
+      <div class="heart-ring ring-2"></div>
+      <div class="heart-ring ring-3"></div>
+    </div>
+    <!-- Orbiting mini hearts -->
+    <div class="orbit orbit-1"><div class="orbit-heart">♥</div></div>
+    <div class="orbit orbit-2"><div class="orbit-heart">♥</div></div>
+    <div class="orbit orbit-3"><div class="orbit-heart">♥</div></div>
+    <div class="orbit orbit-4"><div class="orbit-heart">♥</div></div>
+    <div class="orbit orbit-5"><div class="orbit-heart">♥</div></div>
+  </div>
+
+  <!-- Ribbon trails -->
+  <canvas id="ribbons"></canvas>
+
+  <!-- Click ripple layer -->
+  <div id="ripple-layer"></div>
+
+  <script src="script.js"></script>
 </body>
-<style>
-    html {
-        color-scheme: light only !important;
-        -webkit-color-scheme: light only !important
-    }
-
-    #app,
-    body,
-    html {
-        background-color: #000 !important;
-        color: #fff !important;
-        width: 100%
-    }
-
-    @media (prefers-color-scheme:dark) {
-        html {
-            color-scheme: light only !important;
-            -webkit-color-scheme: light only !important
-        }
-    }
-
-    input:-webkit-autofill,
-    select:-webkit-autofill,
-    textarea:-webkit-autofill {
-        -webkit-text-fill-color: #fff !important;
-        -webkit-box-shadow: 0 0 0 1000px #060a19 inset !important;
-        background-color: #060a19;
-        background-image: none;
-        transition: background-color 50000s ease-in-out 0s
-    }
-</style>
-
 </html>
